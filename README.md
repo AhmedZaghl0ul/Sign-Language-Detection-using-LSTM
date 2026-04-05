@@ -27,10 +27,6 @@ The model consists of:
 3. **Dense Layers:** Fully connected layers for classification.
 4. **Softmax Output:** To predict the probability of each gesture.
 
-## 📸 Demo
-*(Add a GIF of your project working here or a screenshot of the interface)*
-> `![Demo](link_to_your_gif_or_image.gif)`
-
 ## 💻 Installation & Usage
 1. Clone the repository:
    ```bash
